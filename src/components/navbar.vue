@@ -15,11 +15,11 @@
 </template>
 
 <style scoped>
-.nav{
-}
+/*.nav{
+}*/
 
 .nav--links{
-    background-color: black;
+    background-color: rgb(69, 22, 107);
   list-style: none;
   display: flex;
 }

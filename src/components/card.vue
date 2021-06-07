@@ -1,3 +1,4 @@
+/*cambiar variables*/
 <template>
     <div class="card">
           <h3>{{ juego.Nombre }}</h3>
